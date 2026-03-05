@@ -16,3 +16,11 @@ A command‑line social network simulator built with OOP principles. Users can r
 
 ## How to Run
 Make sure you have Python 3 installed. Execute:
+、、、bash
+python main.py
+
+## File Structure
+- `user.py` – User class
+- `graph.py` – Graph data structure
+- `social_network.py` – Core logic
+- `main.py` – Command‑line interface
