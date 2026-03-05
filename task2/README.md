@@ -17,7 +17,9 @@
 
 ## How to Run
 Execute:
+```bash
 python graph_bfs.py
+```
 
 
 ## File Structure
